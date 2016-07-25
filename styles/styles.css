@@ -109,8 +109,8 @@ h1,h2,h3,h4,h5,h6{
     font-family: 'Signika Negative', sans-serif;
     font-size: 25px;
     margin: 5px 0 10px 0;
-    text-transform: uppercase;
-    letter-spacing: 5px;
+    text-transform: lowercase;
+    letter-spacing: 10px;
 }
 
 .infoContent .block h3 a {
