@@ -3,10 +3,12 @@
 ## Overview
 
 * [Readme](README.md)
-* [Resumen](git.md)
+* [Resumen](Resumen.md)
 * [Comandos](comandos.md)
 
 ## Methods
 
 * [Defining Methods](methods.md)
+
+
 
