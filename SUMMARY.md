@@ -3,8 +3,8 @@
 ## Overview
 
 * [Resumen](README.md)
-* [Comandos](comandos.md)
 * [GIT](git.md)
+* [Comandos](comandos.md)
 
 ## Methods
 
