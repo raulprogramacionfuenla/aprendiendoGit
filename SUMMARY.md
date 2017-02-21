@@ -3,7 +3,7 @@
 ## Overview
 
 * [Resumen](README.md)
-* [GIT](git.md)
+* [Conociendo git](git.md)
 * [Comandos](comandos.md)
 
 ## Methods
