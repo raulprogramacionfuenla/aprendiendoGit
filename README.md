@@ -6,7 +6,7 @@ Un mini tutorial de que es Git y de los principales comandos
 
 2. Comandos &gt;&gt;
 
-
+Continua leyendo 😉
 
 
 
