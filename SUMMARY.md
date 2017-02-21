@@ -2,9 +2,9 @@
 
 ## Overview
 
-* [Intro](intro.md)
 * [Resumen](README.md)
 * [Comandos](comandos.md)
+* [GIT](git.md)
 
 ## Methods
 
