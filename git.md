@@ -1,4 +1,4 @@
-# GIT {#git}
+# RESUMEN {#git}
 
 Nace para el control de versiones
 
