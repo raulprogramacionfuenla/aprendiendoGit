@@ -2,8 +2,8 @@
 
 ## Overview
 
-* [GIT](README.md)
-* [D](d.md)
+* [Resumen](README.md)
+* [Comandos](comandos.md)
 
 ## Methods
 
