@@ -2,8 +2,8 @@
 
 ## Overview
 
-* [Resumen](README.md)
-* [Conociendo git](git.md)
+* [Readme](README.md)
+* [Resumen](git.md)
 * [Comandos](comandos.md)
 
 ## Methods
