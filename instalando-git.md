@@ -34,7 +34,8 @@ Instalado, ahora instalamos GIT:
 choco install git.install
 ```
 
-> ### y .... linux ??? . Pues es que no lo uso, sorry
+> #### y .... linux ???
+> ####  Pues es que no lo uso, sorry
 
 ### Configuramos GIT
 
