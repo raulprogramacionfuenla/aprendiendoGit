@@ -4,6 +4,8 @@
 
 * `$ git status`
 
+  * Si el nombre de tus ficheros aparecen en rojo, no están ~~guardados ~~
+
 * `$ git add ..`
 
 * `$ git add -A //AGREGA TODOS`
@@ -26,15 +28,19 @@
 
 * `$ git branch // nos sirve para ver las ramas`
 
-* `$ git branch -D RAMA //borrar ramas`
+  * La rama principal estará señalada por un asterisco. 
 
-* `$ git branch -b RAMA //crea la rama y la mueve`
+* `$ git branch -D NOMBRE_RAMA//borrar ramas`
+
+* `$ git branch -l RAMA //crea la rama`
 
 ---
 
 #### Head:
 
-Es el commit donde nos encontramos
+Es la rama actual, actúa algo así como un puntero, cuando la cambiamos de rama esta apunta hacía esta nueva, mira este gif que es precioso !
+
+![](/assets/git_detached_head_commit.gif)
 
 ---
 
@@ -44,9 +50,17 @@ Es una linea de tiempo de nuestro proyecto
 
 Cuando se crea una rama, se crea a partir de donde esta nuestro head
 
-Nos sirve para movernos entre commits y entre ramas:
+Nos sirve para movernos entre commits y entre ramas.
 
-`$ git checkout Test`
+`$ git checkout Test //Para cambiar de rama `
+
+Pues si nos cambiamos de rama podemos avanzar independientemente de lo que haga la master, ya que en la master va la versión final. 
+
+```
+$ git checkout -b test // Esta linea lo que hace es crear la rama y apuntar a esta rama, sustituye dos lineas 
+```
+
+![](/assets/import.png)
 
 #### Rama Master:
 
