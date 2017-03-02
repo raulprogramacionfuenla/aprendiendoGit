@@ -34,8 +34,7 @@ Instalado, ahora instalamos GIT:
 choco install git.install
 ```
 
-> #### y .... linux ???
-> ####  Pues es que no lo uso, sorry
+> #### y .... linux ??? . Pues es que no lo uso, sorry [😳](http://emojipedia.org/flushed-face/)[😳](http://emojipedia.org/flushed-face/)[😳](http://emojipedia.org/flushed-face/)[😳](http://emojipedia.org/flushed-face/)[😳](http://emojipedia.org/flushed-face/)
 
 ### Configuramos GIT
 
