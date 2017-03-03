@@ -7,6 +7,7 @@
 * [Instalando Git](instalando-git.md)
 * [Comandos](comandos.md)
 * [Usos rápidos](usos-rapidos.md)
+* [Tips](tips.md)
 
 ## Methods
 
