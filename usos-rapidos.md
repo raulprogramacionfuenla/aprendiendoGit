@@ -38,18 +38,5 @@ git init lo genera por default
 
 4. Manual merge: Indica que cambios se desean grabar, mismos archivos, mismas lineas de código
 
----
-
-#### Repositorio:
-
-Es igual que un nuevo proyecto
-
-* `$ git remote add origin DIRECTORIO GIT // conecta el remoto con el local`
-
-* `$ git remote -v //listado`
-
-* `$ git remote remove origin //quita esa conexión`
-
-* `$ git push origin RAMA (master)// manda nuestro cambios al servidor`
 
 
