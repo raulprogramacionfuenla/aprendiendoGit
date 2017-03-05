@@ -2,11 +2,7 @@
 
 Un mini tutorial de que es Git y de los principales comandos
 
-1. Resumen &gt;&gt;
-
-2. Comandos &gt;&gt;
-
-Continua leyendo 😉: https://ifsamaed.gitbooks.io/git/content/
 
 
+Continua leyendo 😉: [https://ifsamaed.gitbooks.io/git/content/](https://ifsamaed.gitbooks.io/git/content/)
 
