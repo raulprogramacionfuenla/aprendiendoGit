@@ -14,7 +14,7 @@ Cuando se crea una rama, se crea a partir de donde esta nuestro head
 
 Nos sirve para movernos entre commits y entre ramas.
 
-`$ git checkout Test //Para cambiar de rama `
+`$ git checkout Test //Para cambiar de rama`
 
 Pues si nos cambiamos de rama podemos avanzar independientemente de lo que haga la master, ya que en la master va la versión final.
 
@@ -32,11 +32,13 @@ git init lo genera por default
 
 1. Nos situamos en la rama maestra
 
-2. `$ git merge Rama`
 
-3. fast forward \(avance rápido\): simple y automático, archivos diferentes o lineas de código distintas
 
-4. Manual merge: Indica que cambios se desean grabar, mismos archivos, mismas lineas de código
+1. `$ git merge [Rama]`
+
+2. fast forward \(avance rápido\): simple y automático, archivos diferentes o lineas de código distintas
+
+3. Manual merge: Indica que cambios se desean grabar, mismos archivos, mismas lineas de código
 
 
 
