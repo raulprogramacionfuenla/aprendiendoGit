@@ -31,14 +31,12 @@ git init lo genera por default
 #### Funciones de Ramas :
 
 1. Nos situamos en la rama maestra
-
-
-
-1. `$ git merge [Rama]`
-
-2. fast forward \(avance rápido\): simple y automático, archivos diferentes o lineas de código distintas
-
-3. Manual merge: Indica que cambios se desean grabar, mismos archivos, mismas lineas de código
+   1. `$ git checkout master`
+2. Para incorporar los cambios a la rama _master _
+   1. `$ git merge [Rama]`
+3. fast forward \(avance rápido\): En respuesta al comando git muestra esta frase, lo que hace es cambiar el puntero a la rama especificada de manera. simple y automática.
+4. **No olvides**, eliminar la rama que fusionaste con la master:
+   1. `$ git branch -d [Rama`
 
 
 
