@@ -30,8 +30,13 @@
 
   * La rama principal estará señalada por un asterisco. 
 
-* `$ git branch -D NOMBRE_RAMA//borrar ramas`
+* `$ git branch -D [Rama] //borrar ramas`
 
-* `$ git branch -l RAMA //crea la rama`
+* `$ git branch -l [Rama] //crea la rama`
 
----
+* `$ git branch push -u origin [Rama] //push un branch local a remoto`
+
+
+
+
+
