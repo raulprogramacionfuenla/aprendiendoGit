@@ -16,7 +16,7 @@
 
 * `$ git checkout  // viajamos a través de nuestros commits o nuestras ramas`
 
-* `$ git checkout [Rama] // viajamos a la Rama especificada  `
+* `$ git checkout [Rama] // viajamos a la Rama especificada`
 
 * `$ git reset // similar a checkout a diferencia que elimina los commits`
 
@@ -32,7 +32,7 @@
 
   * La rama principal estará señalada por un asterisco. 
 
-* `$ git branch -b [Rama] //Crear una nueva rama y saltar a ella`
+* `$ git checkout -b [Rama] //Crear una nueva rama y saltar a ella`
 
 * `$ git branch -D [Rama] //borrar rama`
 
