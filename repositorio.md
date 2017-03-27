@@ -6,7 +6,7 @@ Por eso el uso de **repositorios remotos** \(repositorios alojados en Internet
 
 Repositorios conocidos:
 
-1. **Github**, los repositorios privados son de pago
+1. **Github**, los repositorios privados son de pago, pero si eres estudiante puedes hacerte con este pack ;\) [https://education.github.com/pack](https://education.github.com/pack "Pack estudiante")
 
 2. **GitLab**, aquí no pagas nada \(tip: Si utilizas este repositorio y te registraste con gitHub\(cómo lo hice yo\)deberás añadirle una contraseña en opciones de la cuenta \)
 
@@ -14,8 +14,7 @@ Repositorios conocidos:
 
 Pasos:
 
-  
-1.  Debes tener creado una carpeta tanto local y remoto con el mismo nombre, pero sólo para facilitar su uso.
+1. Debes tener creado una carpeta tanto local y remoto con el mismo nombre, pero sólo para facilitar su uso.
 
 2. Copia el link que encontraras una vez creado el repositorio remoto, algo así:
 
@@ -23,7 +22,7 @@ Pasos:
 https://gitlab.com/usurio/proejctPrivate.git
 ```
 
-3. Vamos al termial \(si usas mac\) o al cmd\(Windows\).
+1. Vamos al termial \(si usas mac\) o al cmd\(Windows\).
 
 Es igual que un nuevo proyecto
 
@@ -34,8 +33,6 @@ b. `$ git remote -v //listado`
 c. `$ git remote remove origin //quita esa conexión`
 
 d.  `$ git push origin RAMA (master)// manda nuestro cambios al servidor`
-
-
 
 Vale, todo esto nos ha servido para enlazar nuestro proyecto con un repositorio remoto, ahora vamos a ver como clonamos un repositorio para colaborar con este o simplemente, examinar el código:
 
