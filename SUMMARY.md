@@ -9,6 +9,7 @@
 * [Ramas](usos-rapidos.md)
 * [Repositorio](repositorio.md)
 * [Tip: Un buen commit](tips.md)
+* [ SSH Key](generando-ssh-key.md)
 
 ## Methods
 
