@@ -5,8 +5,8 @@
 * [Readme](README.md)
 * [Resumen](Resumen.md)
 * [Instalando Git](instalando-git.md)
-* [Comandos](comandos.md)
-* [Usos rápidos](usos-rapidos.md)
+* [Comando Rápidos](comandos.md)
+* [Ramas](usos-rapidos.md)
 * [Repositorio](repositorio.md)
 * [Tip: Un buen commit](tips.md)
 
