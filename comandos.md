@@ -8,7 +8,7 @@
 
 * `$ git add [NOMBRE FICHERO]`
 
-* `$ git add -A : AGREGA TODOS, tener cuidado con este comando. `
+* `$ git add -A : AGREGA TODOS, tener cuidado con este comando.`
 
 * `$ git branch: Nos muestra todas las ramas`
 
@@ -29,6 +29,8 @@
 * `$ git checkout -b [Rama] : Crear una nueva rama y saltar a ella`
 
 * `$ git commit -m “mensaje”`
+
+* ` $ git commit --amend : Añadir al ultimo commit, para archivos olvidados. `
 
 * `$ git log //lista todos los commit`
 
