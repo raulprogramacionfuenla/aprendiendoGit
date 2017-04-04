@@ -36,7 +36,7 @@ git init lo genera por default
    1. `$ git merge [Rama]`
 3. fast forward \(avance rápido\): En respuesta al comando git muestra esta frase, lo que hace es cambiar el puntero a la rama especificada de manera. simple y automática.
 4. **No olvides**, eliminar la rama que fusionaste con la master:
-   1. `$ git branch -d [Rama`
+   1. `$ git branch -d [Rama]`
 
 
 
