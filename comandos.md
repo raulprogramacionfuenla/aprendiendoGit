@@ -30,7 +30,7 @@
 
 * `$ git commit -m “mensaje”`
 
-* ` $ git commit --amend : Añadir al ultimo commit, para archivos olvidados. `
+* `$ git commit --amend : Añadir al ultimo commit, para archivos olvidados, para modificar el último commit , nos ayudará mucho 😉 .`
 
 * `$ git log //lista todos los commit`
 
