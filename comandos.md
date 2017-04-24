@@ -1,5 +1,9 @@
 ### COMANDOS
 
+Los comandos que debes saber como la regla del dos son: comandos git, merge, push y pull así como hacer checkouts de diferentes ramas y borrarlas
+
+.
+
 * `$ git init`
 
 * `$ git status`
@@ -55,10 +59,6 @@
 --------------- AYUDA ---------------
 
 * `$ git help`
-
-
-
-
 
 
 

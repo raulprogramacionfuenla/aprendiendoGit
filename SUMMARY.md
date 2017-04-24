@@ -10,6 +10,7 @@
 * [Repositorio](repositorio.md)
 * [Tip: Un buen commit](tips.md)
 * [ SSH Key](generando-ssh-key.md)
+* [Git-Flow](git-flow.md)
 
 ## Methods
 
