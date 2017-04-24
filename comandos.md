@@ -34,6 +34,8 @@
 
 * `$ git log //lista todos los commit`
 
+* `$ git log --graph //Listamos todos los gráficos como un grafo *`
+
 * `$ git reset // similar a checkout a diferencia que elimina los commits`
 
 * `$ git reset ——soft //No toca nuestro working area`
