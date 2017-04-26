@@ -2,6 +2,8 @@
 
 Esta mañana en el trabajo he tenido la suerte de poder conocer GIT-FLOW, me ha explicado la gran utilidad que conlleva tener modularizada las ramas, de poder aislar cada funcionalidad. Ahora para poder entenderlo mejor haremos un resumen:
 
+fuente: [http://nvie.com/posts/a-successful-git-branching-model/](http://nvie.com/posts/a-successful-git-branching-model/)
+
 Miremos lo más importante, el gráfico en el que podremos ver la estructura real, los flujos de trabajo:
 
 ![](/assets/git-flow)
