@@ -1,6 +1,6 @@
 # RESUMEN {#git}
 
-Nace para el control de versiones
+Nace para el control de versiones y su creador es [Linus Torvalds](https://es.wikipedia.org/wiki/Linus_Torvalds)
 
 * #### **Sistema de control de versiones centralizado:** {#sistema-de-control-de-versiones-centralizado}
 
