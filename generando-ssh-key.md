@@ -1,8 +1,6 @@
 ## ¿Y esto para qué?
 
-Pues con esto vamos a dar acceso a una computadora específica, usamos esta llave en lugar de un nombre de usuario y un password, este tipo de conexión no hará mejorar nuestra experiencia como desarrollador. Por tanto, usemos el loggin por medio de ssh en el servidor , en este caso nuestro servidor sería \(GitHub\).
-
-
+Pues con esto vamos a dar acceso a una computadora específica, usamos esta llave en lugar de un nombre de usuario y un password, este tipo de conexión nos hará mejorar nuestra experiencia como desarrollador. Por tanto, usemos el loggin por medio de ssh en el servidor , en este caso nuestro servidor sería \(GitHub\).
 
 ## Comando rápidos:
 
@@ -22,15 +20,21 @@ Pues con esto vamos a dar acceso a una computadora específica, usamos esta llav
 #### Añadiendo SSH key a the ssh-agent:
 
 1. $ eval "$\(ssh-agent -s\)" Agent pid 59566  
-2. $ ssh-add -K ~/.ssh/id_rsa
+2. $ ssh-add -K ~/.ssh/id\_rsa
 
 #### Añadiendo SSH key a la cuenta GitHub:
-1. $ pbcopy < ~/.ssh/id_rsa.pub
-2. Settings >> SSH and GPG keys >>  New SSH key or Add SSH key >> Add SSH key >> 
+
+1. $ pbcopy &lt; ~/.ssh/id\_rsa.pub
+2. Settings &gt;&gt; SSH and GPG keys &gt;&gt;  New SSH key or Add SSH key &gt;&gt; Add SSH key &gt;&gt; 
 
 #### Testeando:
+
 1. $ ssh -T git@github.com
 2. "Hi username! You've successfully authenticated, but GitHub does not provide shell access"
 
 #### Empezando a trabajar:
+
 1. $ ssh-keygen -p
+
+
+
